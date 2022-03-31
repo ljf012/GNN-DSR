@@ -41,5 +41,5 @@ This paper proposes a PyTorch framework called GNN-DSR for social recommendation
    ```
 
 ## Preprocessed Data & Weights
-If you cannot download the documents of preprocessed data and weights, you can try to download them at https://drive.google.com/drive/folders/1Rma8Uh3vHjUuMUzHi10GUvYt49cN40Ta?usp=sharing
+If you cannot download the documents of preprocessed data and weights, you can try to download them at [Google Drive]](https://drive.google.com/drive/folders/1Rma8Uh3vHjUuMUzHi10GUvYt49cN40Ta?usp=sharing)
 
