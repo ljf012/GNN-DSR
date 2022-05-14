@@ -1,8 +1,23 @@
 # GNN-DSR
 This code is for the paper "Graph Neural Networks with Dynamic and Static Representations for Social Recommendation" which is accepted by DASFAA 2022. 
 
+[Lin, J., Chen, S., Wang, J. (2022). Graph Neural Networks with Dynamic and Static Representations for Social Recommendation. In: , et al. Database Systems for Advanced Applications. DASFAA 2022. Lecture Notes in Computer Science, vol 13246. Springer, Cham. https://doi.org/10.1007/978-3-031-00126-0_18](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_18)
+
 This paper proposes a PyTorch framework called GNN-DSR for social recommendation.
 
+If you use our works and codes in your research, please cite:
+```bash
+@inproceedings{lin2022gnndsr,
+    title="Graph Neural Networks with Dynamic and Static Representations for Social Recommendation",
+    author={Lin, Junfa and Chen, Siyuan and Wang, Jiahai},
+    booktitle={Database Systems for Advanced Applications},
+    year={2022},
+    publisher={Springer International Publishing},
+    address={Cham},
+    pages={264--271},
+    isbn={978-3-031-00126-0}
+}
+```
 
 ## Requirements
 - Python 3.8
